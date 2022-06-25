@@ -3,6 +3,7 @@
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno001&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
 
 I'm Nuno a Python programmer and OS Configurator. I spend most of my time coding pending projects or getting a better result in my projects
+
 Currently on <strong>São Paulo</strong> is 21°C, Partly Cloudy, with winds 4 km/h South.
   
 
