@@ -3,6 +3,7 @@
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno001&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
 
 I'm Nuno a Python programmer and OS Configurator. I spend most of my time coding pending projects or getting a better result in my projects
+Currently on <strong>São Paulo</strong> is 21°C, Partly Cloudy, with winds 4 km/h South.
   
 
 - 🔭 I’m currently working at @OptimizeTeamX And @JK Comunidade
@@ -15,9 +16,13 @@ I'm Nuno a Python programmer and OS Configurator. I spend most of my time coding
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-mysql-F0DB4F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-next-007acc?style=for-the-badge&labelColor=black&logo=next&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Lua-3C873A?style=for-the-badge&labelColor=black&logo=lua&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-ubuntu-e535ab?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=e535ab)](#) [![GraphQL Badge](https://img.shields.io/badge/-linux-9400D3?style=for-the-badge&labelColor=black&logo=linux&logoColor=e535ab)](#) </a>[![GraphQL Badge](https://img.shields.io/badge/-react-008B8B?style=for-the-badge&labelColor=black&logo=react&logoColor=32CD32)](#) </a>
   <a href="https://discord.gg/2DjtfTGar4">
-    <img
-      align=""
-      src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
+  #### `Find me`
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/richaardev)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/richaardev)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/richaardev/)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/h2R5zfQW3B)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/richaardev)
+      
   </a>
 
 
