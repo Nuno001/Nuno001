@@ -1,13 +1,13 @@
-## Hi I'm Nuno <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## <h2>🌃 Good evening! 🇧🇷</h2>
+<img align="right" alt="Used langs" width="335" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno001&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
 
 I'm Nuno a Python programmer and OS Configurator. I spend most of my time coding pending projects or getting a better result in my projects
   
 
 - 🔭 I’m currently working at @OptimizeTeamX And @JK Comunidade
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me on discord.
-- ⚡ Fun fact: I play games and love code games.
-
+-   👨‍💻 17 years old developer!
+-   📚 Always trying to improve knowledge.
 
 #### Studying...
 
@@ -23,7 +23,7 @@ I'm Nuno a Python programmer and OS Configurator. I spend most of my time coding
 
   </a>
 
-![Snake animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake.svg)
+
 <h5 align="center">@Nuno001</h5>
 
 
