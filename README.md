@@ -1,4 +1,4 @@
-## <h2>🌃 Good evening! 🇧🇷</h2>
+ <h2>🌃 Good evening! 🇧🇷</h2>
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno001&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
 
@@ -15,8 +15,24 @@ Currently on <strong>São Paulo</strong> is 21°C, Partly Cloudy, with winds 4 k
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-mysql-F0DB4F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-javascript-007acc?style=for-the-badge&labelColor=black&logo=javascript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Lua-3C873A?style=for-the-badge&labelColor=black&logo=lua&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-ubuntu-e535ab?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=e535ab)](#) [![GraphQL Badge](https://img.shields.io/badge/-linux-9400D3?style=for-the-badge&labelColor=black&logo=linux&logoColor=e535ab)](#) </a>[![GraphQL Badge](https://img.shields.io/badge/-react-008B8B?style=for-the-badge&labelColor=black&logo=react&logoColor=32CD32)](#) </a>
-  <a href="https://discord.gg/2DjtfTGar4">
+
+![Lua](https://img.shields.io/badge/Lua-007ACC?style=for-the-badge&logo=Lua&logoColor=blue)
+[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
+![Mysql](https://img.shields.io/badge/MYSQL-FFA200?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)
+
+
+# OS Skills
+
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Kotlin-36648B?style=for-the-badge&logo=kotlin&logoColor=8A2BE2)
+![Linux](https://img.shields.io/badge/Docker-36648B?style=for-the-badge&logo=Dockern&logoColor=8A2BE2)
+
+
+
+
   #### `Find me`
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Nuno001)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/errorincode212)
