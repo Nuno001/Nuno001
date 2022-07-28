@@ -2,12 +2,12 @@
 <img align="right" alt="Used langs" width="335" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno001&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
 
-I'm Nuno a Python programmer and OS Configurator. I spend most of my time coding pending projects or getting a better result in my projects
+I'm Nuno a Python And Lua programmer so i decide to be OS Configurator. I spend most of my time coding pending projects or getting a better result in my projects
 
 Currently on <strong>São Paulo</strong> is 21°C, Partly Cloudy, with winds 4 km/h South.
   
 
-- 🔭 I’m currently working at @OptimizeTeamX And @JK Comunidade
+- 🔭 I’m currently working at @OptimizeTeam And @JK Comunidade
 -   👨‍💻 17 years old developer!
 -   📚 Always trying to improve knowledge.
 
@@ -28,7 +28,6 @@ Currently on <strong>São Paulo</strong> is 21°C, Partly Cloudy, with winds 4 k
 
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-[![Discord Presence](https://lanyard.cnrad.dev/api/975068431625883718)](https://discord.com/users/975068431625883718)
 
 
 
