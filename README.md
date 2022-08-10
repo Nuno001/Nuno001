@@ -21,7 +21,7 @@ Currently on <strong>São Paulo</strong> is 21°C, Partly Cloudy, with winds 4 k
 ![Mysql](https://img.shields.io/badge/MYSQL-FFA200?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)
-![Linux](https://img.shields.io/badge/Docker-36648B?style=for-the-badge&logo=Dockern&logoColor=8A2BE2)
+![Linux](https://img.shields.io/badge/sqlite-36648B?style=for-the-badge&logo=sqliten&logoColor=8A2BE2)
 
 
 # OS Skills
