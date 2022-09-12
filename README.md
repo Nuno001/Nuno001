@@ -1,11 +1,13 @@
- <h2>🌃 Yooo! 🇧🇷</h2>
-<img align="right" alt="Used langs" width="335" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno001&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
 
-I'm Nuno a Python And Lua programmer so i decide to be OS Configurator. I spend most of my time coding pending projects or getting a better result in my projects
 
-Currently on <strong>São Paulo</strong> is 21°C, Partly Cloudy, with winds 4 km/h South.
-  
+
+I'm Nuno a Python And Lua programmer so i decide to be OS Configurator. I spend most of my time coding pending projects or getting a better result in my projects 
+
+---
+
+<a href="https://discord.com/users/975068431625883718">
+  <img src="https://lanyard-profile-readme.vercel.app/api/975068431625883718?hideTimestamp=true&idleMessage=Trying%20chillin'%20at%20the%20moment..." align="right" />
+</a>
 
 - 🔭 I’m currently working at @OptimizeTeam And @JK Comunidade
 -   👨‍💻 17 years old developer!
