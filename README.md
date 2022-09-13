@@ -13,7 +13,7 @@ I'm Nuno a Python And Lua programmer so i decide to be OS Configurator. I spend 
 -   👨‍💻 17 years old developer!
 -   📚 Always trying to improve knowledge.
 
-#### Studying...
+#### My favorite languages and what I study
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
