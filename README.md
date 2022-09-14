@@ -9,7 +9,7 @@ I'm Nuno a Python And Lua programmer so i decide to be OS Configurator. I spend 
   <img src="https://lanyard-profile-readme.vercel.app/api/975068431625883718?hideTimestamp=true&idleMessage=Trying%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
-- 🔭 I’m currently working at @OptimizeTeam And @JK Comunidade
+- 🔭 I’m currently working at @OptimizeCloud
 -   👨‍💻 17 years old developer!
 -   📚 Always trying to improve knowledge.
 
