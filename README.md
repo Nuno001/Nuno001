@@ -18,12 +18,14 @@ I'm Nuno a Python And Lua programmer so i decide to be OS Configurator. I spend 
 <!-- TODO: Make technologies links takes you to repositories -->
 
 
-![Lua](https://img.shields.io/badge/Lua-007ACC?style=for-the-badge&logo=Lua&logoColor=blue)
-[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
-![Mysql](https://img.shields.io/badge/MYSQL-FFA200?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Nextjs-007ACC?style=for-the-badge&logo=nextjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)
-![Linux](https://img.shields.io/badge/sqlite-36648B?style=for-the-badge&logo=sqliten&logoColor=8A2BE2)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gui-Lua" src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white">
+  <img align="center" alt="Gui-Py" src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black">
+  <img align="center" alt="Gui-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Gui-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Gui-Kotlin" src="https://img.shields.io/badge/React-0095D5?&style=for-the-badge&logo=react&logoColor=white">
+  <img align="right" alt="Guilherme" src="https://media.discordapp.net/attachments/887924683616440393/887924729523081236/ezgif.com-gif-maker.gif?width=150&height=150">
+</div>
 
 
 # OS Skills
