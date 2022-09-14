@@ -21,7 +21,7 @@ I'm Nuno a Python And Lua programmer so i decide to be OS Configurator. I spend 
 ![Lua](https://img.shields.io/badge/Lua-007ACC?style=for-the-badge&logo=Lua&logoColor=blue)
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
 ![Mysql](https://img.shields.io/badge/MYSQL-FFA200?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Nextjs-007ACC?style=for-the-badge&logo=nextjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)
 ![Linux](https://img.shields.io/badge/sqlite-36648B?style=for-the-badge&logo=sqliten&logoColor=8A2BE2)
 
