@@ -24,6 +24,7 @@ I'm Nuno a Python And Lua programmer so i decide to be OS Configurator. I spend 
   <img align="center" alt="Gui-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Gui-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Gui-Kotlin" src="https://img.shields.io/badge/React-0095D5?&style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="Gui-mysql" src="https://img.shields.io/badge/MySQL-009D5?&style=for-the-badge&logo=MySQL&logoColor=white">
   <img align="right" alt="Guilherme" src="https://media.discordapp.net/attachments/887924683616440393/887924729523081236/ezgif.com-gif-maker.gif?width=150&height=150">
 </div>
 
