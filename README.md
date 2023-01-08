@@ -35,6 +35,8 @@
 <p align="center">
     If you want to see my projects see <a href="https://nunoo.dev/" target="_blank">my website!</a>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuno001&count_private=true&show_icons=true&theme=dracula)
+
 
   #### `Find me`
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/)
