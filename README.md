@@ -1,8 +1,8 @@
-<h1 align="center">👋 Howdly!!
-<h3 align="center">I'm Nuno a 17 years and knowing the world in the most curious way</h3>
+<h1 align="center">👋 Hello!!
+<h3 align="center">I'm Nuno a 18 years and knowing the world in the most curious way</h3>
 
-<a href="https://discord.com/users/975068431625883718">
-  <img src="https://lanyard-profile-readme.vercel.app/api/975068431625883718?hideTimestamp=true&idleMessage=Trying%20chillin'%20at%20the%20moment..." align="right" />
+<a href="https://discord.com/users/797571555135717407">
+  <img src="https://lanyard-profile-readme.vercel.app/api/797571555135717407?hideTimestamp=true&idleMessage=Trying%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
 -   🚶🏻Currently trying to learn everything!
@@ -12,7 +12,7 @@
 #### ```My favorite languages and what I study```
 
 
-  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![](https://img.shields.io/badge/react-00BFFF?style=for-the-badge&logo=react&logoColor=white)![](https://img.shields.io/badge/redis-FF0000?style=for-the-badge&logo=redis&logoColor=white)
+  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![](https://img.shields.io/badge/react-00BFFF?style=for-the-badge&logo=react&logoColor=white) ![](https://img.shields.io/badge/redis-FF0000?style=for-the-badge&logo=redis&logoColor=white) ![](https://img.shields.io/badge/Expressjs-5FC731?style=for-the-badge&logo=express&logoColor=white) 
 
   
 
