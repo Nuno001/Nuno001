@@ -7,7 +7,7 @@
 
 -   🚶🏻Currently trying to learn everything!
 -   👨‍💻 17 years old developer!
--   🛸 Learn more about my projects at <a href="https://nunoo.dev/" target="_blank">my website!</a>
+-   🛸 Learn more about my projects at <a href="https://nunoo.art/" target="_blank">my website!</a>
 
 #### ```My favorite languages and what I study```
 
@@ -26,7 +26,7 @@
     I started programming in 2018 with javascript with discord. js which is when I fell in love with programming. After that I looked for other languages and saw that there are thousands in which I fit in the programming world. Today I seek to improve my knowledge my projects.
 </p>
 <p align="center">
-    If you want to see my projects see <a href="https://nunoo.dev/" target="_blank">my website!</a>
+    If you want to see my projects see <a href="https://nunoo.art/" target="_blank">my website!</a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuno001&count_private=true&show_icons=true&theme=dracula)
 
