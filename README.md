@@ -9,11 +9,10 @@
 -   👨‍💻 17 years old developer!
 -   🛸 Learn more about my projects at <a href="https://nunoo.art/" target="_blank">my website!</a>
 
-#### ```My favorite languages and what I study```
+#### ```Skills```
 
 
-  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![](https://img.shields.io/badge/react-00BFFF?style=for-the-badge&logo=react&logoColor=white) ![](https://img.shields.io/badge/redis-FF0000?style=for-the-badge&logo=redis&logoColor=white) ![](https://img.shields.io/badge/Expressjs-5FC731?style=for-the-badge&logo=express&logoColor=white) 
-
+  ![](https://img.shields.io/badge/php-4682B4?style=for-the-badge&logo=php&logoColor=black) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) 
   
 
 <p align="center">
