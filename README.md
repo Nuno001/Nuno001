@@ -4,7 +4,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/797571555135717407?hideTimestamp=true&idleMessage=Trying%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
-- 👨‍💻 I'm Nuno, an 18 Backend developer passionate about solving challenges behind the scenes!
+- 👨‍💻 I'm Nuno, an 18 Backend developer & UI/ UX Designer passionate about solving challenges behind the scenes!
 - 🏢 Founder of [NeonStudio](https://neonstudio.com.br)
 - 🙅‍♂️ Frontend? Not my cup of tea. My focus is on the backend!
 - 🛸 Learn more about my projects on [my website!](https://nunoo.art)
