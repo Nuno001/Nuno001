@@ -5,7 +5,7 @@
 </a>
 
 - 👨‍💻 I'm Nuno, an 18 Backend developer passionate about solving challenges behind the scenes!
-- 🏢 Founder of [NeonStudio](https://seasoncloud.com.br)
+- 🏢 Founder of [NeonStudio](https://neonstudio.com.br)
 - 🙅‍♂️ Frontend? Not my cup of tea. My focus is on the backend!
 - 🛸 Learn more about my projects on [my website!](https://nunoo.art)
 
