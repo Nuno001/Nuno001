@@ -10,10 +10,10 @@
 - 🛸 Learn more about my projects on [my website!](https://nunoo.art)
 
 
-#### Skills
+#### Learning
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white)
-
+![C](https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=C&logoColor=white)
 
 #### FrameWorks:
 ![Laravel](https://img.shields.io/badge/Luvit-FF2D20?style=for-the-badge&logo=luvit&logoColor=white)
