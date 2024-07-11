@@ -4,7 +4,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/797571555135717407?hideTimestamp=true&idleMessage=Trying%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
-- 👨‍💻 I'm Nuno, an 18 Backend developer & UI/ UX Designer passionate about solving challenges behind the scenes!
+- 👨‍💻 I'm Nuno, an 18 developer & UI/ UX Designer passionate about solving challenges behind the scenes!
 - 🏢 Founder of [Visage Studio](https://visagestudio.com.br)
 - 🙅‍♂️ Frontend? Not my cup of tea. My focus is on the backend!
 - 🛸 Learn more about my projects on [my website!](https://nunoo.art)
@@ -12,11 +12,24 @@
 
 #### Learning
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white)
-![C](https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+
+
+
 
 #### FrameWorks:
 ![Laravel](https://img.shields.io/badge/Luvit-FF2D20?style=for-the-badge&logo=luvit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 ### IDEs, Editors, Design Editors
 
@@ -28,6 +41,8 @@
 #### Bancos de Dados:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
 
 #### Version Control, Hostings, Servers
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
