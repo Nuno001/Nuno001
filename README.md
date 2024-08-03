@@ -4,7 +4,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/797571555135717407?hideTimestamp=true&idleMessage=Trying%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
-- 👨‍💻 I'm Nuno, an 18 developer & UI/ UX Designer passionate about solving challenges behind the scenes!
+- 👨‍💻 I'm Nuno, an 19 developer & UI/UX Designer passionate about solving challenges behind the scenes!
 - 🏢 Founder of [Visage Studio](https://visagestudio.com.br)
 - 🙅‍♂️ Frontend? Not my cup of tea. My focus is on the backend!
 - 🛸 Learn more about my projects on [my website!](https://nunoo.art)
@@ -18,11 +18,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-
-
 
 
 
@@ -51,7 +46,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
 
 #### Fun Facts
 I began coding in 2018 with JavaScript and Discord.js, falling in love with programming. Since then, I've explored various languages and remain dedicated to enhancing my knowledge while working on exciting projects.
